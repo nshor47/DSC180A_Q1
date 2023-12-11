@@ -7,7 +7,7 @@ Step 1: Acquiring Data
 
 Step 2: Creating DSC180A_Q1 environment
 -The next step is to create the conda environment with all the necessary dependencies to run the ipynb file I've provided. To do this you will need to open up your terminal on your local device. Make sure you have also downloaded the environment.yml file to your local device as well. You will navigate to where your environment.yml is in the terminal and then run the following line of code.
-- conda env create -f environment.yml
+-conda env create -f environment.yml
 -This will create a conda environment for you where you will have all the necessary dependencies. From here, you can open a jupyter notebook or whatever environment you usually program in and open the LiarLiarTesting.ipynb file provided.
 
  Step 3: Running LiarLiarTesting.ipynb
