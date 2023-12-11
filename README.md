@@ -1,7 +1,7 @@
 # DSC180A_Q1
-This is the code and data I used to create my predictive models for my quarter 1 final project. All necessary files are located in the main branch.
+This is the code and data I used to create my predictive models for my quarter 1 final project. All necessary files are located in the main branch.  
 
-Reproducing the project:
+Reproducing the project:  
 Step 1: Acquiring Data  
 -The first thing you will need to do is to clone this repository to your local device and then download/unzip the files. There are 4 datasets I used and they are called, train.tsv (in the Liar_plus folder), equal_random_sample_df.csv.zip, equal_random_sample_processed.csv, and politifact_data_combined_prev_ratings.csv.zip. Once those are unzipped, I would put them all back in a folder called Data, and put the Liar_plus folder with train.tsv in it in the Data folder as well. This will allow for no changes needed to be made in the ipynb file I have provided.
 
