@@ -1,0 +1,14 @@
+name: 180A-Q1
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - scikit-learn
+  - nltk
+  - matplotlib
+  - gensim
+  - pip
+  - pip:
+    - keybert
+prefix: /Users/nicholasshor/miniconda3/envs/180A-Q1
